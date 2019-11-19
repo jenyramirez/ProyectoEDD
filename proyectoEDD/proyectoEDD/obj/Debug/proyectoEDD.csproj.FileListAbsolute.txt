@@ -1,0 +1,13 @@
+C:\Users\jeny\source\repos\proyectoEDD\proyectoEDD\bin\Debug\proyectoEDD.exe.config
+C:\Users\jeny\source\repos\proyectoEDD\proyectoEDD\bin\Debug\proyectoEDD.exe
+C:\Users\jeny\source\repos\proyectoEDD\proyectoEDD\bin\Debug\proyectoEDD.pdb
+C:\Users\jeny\source\repos\proyectoEDD\proyectoEDD\obj\Debug\proyectoEDD.csprojAssemblyReference.cache
+C:\Users\jeny\source\repos\proyectoEDD\proyectoEDD\obj\Debug\proyectoEDD.Form1.resources
+C:\Users\jeny\source\repos\proyectoEDD\proyectoEDD\obj\Debug\proyectoEDD.Properties.Resources.resources
+C:\Users\jeny\source\repos\proyectoEDD\proyectoEDD\obj\Debug\proyectoEDD.Registro.resources
+C:\Users\jeny\source\repos\proyectoEDD\proyectoEDD\obj\Debug\proyectoEDD.csproj.GenerateResource.cache
+C:\Users\jeny\source\repos\proyectoEDD\proyectoEDD\obj\Debug\proyectoEDD.exe
+C:\Users\jeny\source\repos\proyectoEDD\proyectoEDD\obj\Debug\proyectoEDD.pdb
+C:\Users\jeny\source\repos\proyectoEDD\proyectoEDD\obj\Debug\proyectoEDD.Administrador.resources
+C:\Users\jeny\source\repos\proyectoEDD\proyectoEDD\obj\Debug\proyectoEDD.clienteForm.resources
+C:\Users\jeny\source\repos\proyectoEDD\proyectoEDD\obj\Debug\proyectoEDD.fechaForm.resources
